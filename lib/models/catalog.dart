@@ -1,5 +1,17 @@
+class CatalogModel {
+  static final items = [
+    Item(
+        id: 1,
+        name: "iphone 12 pro",
+        desc: "Apple iphone 12 gen",
+        price: 999,
+        color: "#33505a",
+        image: "http://wowdetailingstudio.com/asset/img/logo.png")
+  ];
+}
+
 class Item {
-  final String id;
+  final int id;
   final String name;
   final String desc;
   final num price;
@@ -14,13 +26,3 @@ class Item {
       required this.color,
       required this.image});
 }
-
-final products = [
-  Item(
-      id: "Codepur001",
-      name: "iphone 12 pro",
-      desc: "Apple iphone 12 gen",
-      price: 999,
-      color: "#33505",
-      image: "http://wowdetailingstudio.com/asset/img/logo.png")
-];
