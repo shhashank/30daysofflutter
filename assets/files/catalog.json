@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Apple iphone 12 gen",
+            "price": 999,
+            "color": "#33505a",
+            "image": "http://wowdetailingstudio.com/asset/img/logo.png"
+        },
+        {
+            "id": 2,
+            "name": "mi 3 pro",
+            "desc": "xiaomi bull 2 gen",
+            "price": 499,
+            "color": "#33505a",
+            "image": "http://wowdetailingstudio.com/asset/img/logo.png"
+        },
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Apple iphone 12 gen",
+            "price": 999,
+            "color": "#33505a",
+            "image": "http://wowdetailingstudio.com/asset/img/logo.png"
+        },
+        {
+            "id": 2,
+            "name": "mi 3 pro",
+            "desc": "xiaomi bull 2 gen",
+            "price": 499,
+            "color": "#33505a",
+            "image": "http://wowdetailingstudio.com/asset/img/logo.png"
+        }
+    ]
+}
