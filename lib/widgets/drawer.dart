@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class MyDrawer extends StatelessWidget {
-  final imageUrl = "http://wowdetailingstudio.com/asset/img/logo.png";
+  final imageUrl = "http://wowdetailingstudio.com/assets/images/logo/logo.png";
 
   @override
   Widget build(BuildContext context) {
